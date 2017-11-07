@@ -5,15 +5,10 @@ permalink: /about/
 background: '/img/bg-about.jpg'
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Moanalua Athletic Club (MAC) serves the Moanalua community with volunteer run baseball, basketball,
+and volleyball programs for multiple age groups. Each year we host at least one team in each age division, if there
+are sufficient players, to participate in the Police Activity League (PAL) in our geographic area.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The MAC programs are primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Our programs start with children in the Jr. Pinto age division between the ages of 5 and 6, and can go up to the Pinto age division with players between the ages of 13 and 14.
