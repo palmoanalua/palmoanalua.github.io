@@ -1,0 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "styles";
+
+header.masthead .page-heading,
+header.masthead .post-heading {
+  padding: 50px 0;
+}
