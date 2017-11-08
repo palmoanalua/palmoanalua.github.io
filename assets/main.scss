@@ -9,11 +9,46 @@ header.masthead .post-heading {
   padding: 50px 0;
 }
 
-header.masthead .page-heading h1,
-header.masthead .post-heading h1 {
-  font-size: 50px;
+header.masthead {
+  .page-heading h1 {
+    font-size: 50px;
+  }
+
+  .post-heading h1 {
+    font-size: 40px;
+  }
 }
 
 footer {
   background-color: #212529;
+  .copyright {
+    margin: 0px;
+  }
+}
+
+/* Sticky footer */
+$footerHeight: 120px;
+
+//Page full height
+html, body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    // Negative indent footer by it's height
+    margin-bottom: -($footerHeight);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+//footer fixed height
+.footer-push,
+footer {
+    height: $footerHeight;
+    max-height: $footerHeight;
+    overflow: hidden;
 }

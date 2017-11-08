@@ -14,7 +14,6 @@ Please come back later for more information.
 Program Information
 -------------------
 MAC Volleyball divisions and age groups are as follows:  
-(Age of child on 12/31/2017)
 
 * Pintos
 * Mustangs

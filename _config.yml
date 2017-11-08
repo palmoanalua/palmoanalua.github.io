@@ -3,7 +3,7 @@ title: Moanalua Athletic Club
 email: palmoanalua@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Serving the Moanalua community with volunteer run baseball, basketball,
-  and volleyball programs for multiple age groups.
+  and volleyball programs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -12,8 +12,8 @@ github_username:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog
-paginate:          5
-paginate_path:     "/posts/page:num/"
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
