@@ -2,6 +2,7 @@
 layout: page
 title: Baseball
 permalink: /baseball/
+background: '/img/bg-baseball.jpg'
 ---
 
 MAC 2017 - 2018 Baseball Program

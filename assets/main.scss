@@ -4,11 +4,17 @@
 
 @import "styles";
 
+header.masthead {
+  background-position: 50% 35%;
+}
+
+/* Size of header area */
 header.masthead .page-heading,
 header.masthead .post-heading {
   padding: 50px 0;
 }
 
+/* Size of header font */
 header.masthead {
   .page-heading h1 {
     font-size: 50px;
@@ -19,6 +25,7 @@ header.masthead {
   }
 }
 
+/* Footer adjustment to support sticky footer */
 footer {
   background-color: #212529;
   .copyright {

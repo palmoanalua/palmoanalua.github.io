@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-background: '/img/bg-about.jpg'
+background: '/img/bg-moanalua.jpg'
 ---
 
 The Moanalua Athletic Club (MAC) serves the Moanalua community with volunteer run baseball, basketball,

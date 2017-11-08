@@ -2,6 +2,7 @@
 layout: page
 title: Volleyball
 permalink: /volleyball/
+background: '/img/bg-volleyball.jpg'
 ---
 
 MAC 2017 - 2018 Volleyball Program

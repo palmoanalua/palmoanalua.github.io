@@ -3,6 +3,7 @@ layout: page
 title: Basketball
 subtitle: Program
 permalink: /basketball/
+background: '/img/bg-basketball.jpg'
 ---
 
 MAC 2017 - 2018 Basketball Program
