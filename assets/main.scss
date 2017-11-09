@@ -59,3 +59,29 @@ footer {
     max-height: $footerHeight;
     overflow: hidden;
 }
+
+/* Registration Link */
+
+#click-here-to-register-now {
+  margin-bottom: 40px;
+}
+
+a.link-button {
+  background-color:  #1c5ec0;
+  background: #1c5ec0 none repeat scroll 0 0;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+}
+a.link-button:hover {
+  background-color:  #3273dc;
+  border-radius: 3px;
+  color: #ffffff;
+  }
+
+.warning {
+  color: red;
+  font-weight: bold;
+}
