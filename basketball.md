@@ -9,7 +9,7 @@ background: '/img/bg-basketball.jpg'
 MAC 2017 - 2018 Basketball Program
 ----------------------------------
 ## ** Registration for the 2017-2018 season is closed **
-{: .box}
+{: .alert .alert-danger .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
@@ -42,11 +42,11 @@ This year there will only be online registration.
 * If your child is selected, payment must be made by check or money order made payable to MAC for $65. Payment must be made by November 2017 or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
-* *ABSOLUTELY NO LATE REGISTRATIONS*{: .warning}
-* *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .warning}
+* *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
+* *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
 ## ** Registration for the 2017-2018 season is closed **
-{: .box}
+{: .alert .alert-danger .rounded}
 
 ------------
 If accepted, you will be sent an email with instructions. Please follow and submit prior to deadline or acceptance into the league will be terminated.
