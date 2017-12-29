@@ -7,7 +7,7 @@ background: '/img/bg-baseball.jpg'
 
 MAC 2018 Baseball Program
 ----------------------------------
-Welcome to the Moanalua Athletic Club (MAC) Baseball program! The MAC Baseball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway, or attending Moanalua Elementary or Middle Schools.
+Welcome to the Moanalua Athletic Club (MAC) Baseball program! The MAC Baseball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
 If you are participating in other sports which conflict with our season (April through July), please understand that baseball will take precedence. PAL will not allow a player to participate in concurring baseball seasons. If you cannot make this commitment, please do not register your child.
 

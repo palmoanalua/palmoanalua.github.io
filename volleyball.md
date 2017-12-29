@@ -7,7 +7,7 @@ background: '/img/bg-volleyball.jpg'
 
 MAC 2018 Volleyball Program
 ----------------------------------
-Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway, or attending Moanalua Elementary or Middle Schools.
+Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
 The 2018 MAC Volleyball season has not been scheduled.
 Please come back later for more information.
