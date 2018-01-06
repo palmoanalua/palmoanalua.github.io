@@ -33,8 +33,8 @@ The MAC 2018 volleyball registration is open from January 7 through January 31, 
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration opens on January 7, 2018 **
-{: .alert .alert-warning .rounded}
+
+## [Click Here to Register Now!](https://goo.gl/forms/mwLhqMo2fy8rtaD23){: .link-button}{:target="_blank"}
 
 Notification
 ------------
