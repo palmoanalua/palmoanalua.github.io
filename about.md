@@ -11,4 +11,4 @@ are sufficient players, to participate in the Police Activity League (PAL) in ou
 
 The MAC programs are primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
-Our programs start with children in the Jr. Pinto age division between the ages of 5 and 6, and can go up to the Pinto age division with players between the ages of 13 and 14.
+Our programs start with children in the Jr. Pinto age division between the ages of 5 and 6, and can go up to the Pony age division with players between the ages of 13 and 14.
