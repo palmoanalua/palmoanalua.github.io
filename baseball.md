@@ -30,14 +30,19 @@ Picture taking date is Wednesday, May 9, 2018.
 
 Registration
 ------------
+This year we are offering online and in-person registration. Sample uniforms will be available for sizing at the in-person registration.
 * First year players with MAC Baseball will be required to provide proof of birth date
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
+*Registration Dates:*
+* Online Registration period is 2/1/2018 - 3/3/2018
+* In-person Registration will be held on Tues, 2/20 and Wed, 2/21 from 4:30pm – 6:30pm at the Moanalua Pavilion (between the Elementary and Middle schools)
+
 Notification
 ------------
 
-Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
+Contact [palmacbaseball@gmail.com](mailto:palmacbaseball@gmail.com)  for questions or assistance.
 
 Check Policy
 ------------
@@ -46,3 +51,7 @@ Your check will not be re-deposited. Within one week of notification, you must m
  (or any board member) to pay the registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another check.
   Should your second check be returned, all future payments (regardless of activity) must be made in cash.
    If you have any questions regarding this policy, please check with the program coordinator.
+
+---
+
+Candace Fujishima - MAC Baseball Coordinator - (808) 389-6682 - [palmacbaseball@gmail.com](mailto:palmacbaseball@gmail.com) 
