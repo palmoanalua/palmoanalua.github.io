@@ -39,6 +39,8 @@ This year we are offering online and in-person registration. Sample uniforms wil
 * Online Registration period is 2/1/2018 - 3/3/2018
 * In-person Registration will be held on Tues, 2/20 and Wed, 2/21 from 4:30pm – 6:30pm at the Moanalua Pavilion (between the Elementary and Middle schools)
 
+## [Click Here to Register Now!](https://goo.gl/forms/VyH0vk51AtUDOqB92){: .link-button}{:target="_blank"}
+
 Notification
 ------------
 
