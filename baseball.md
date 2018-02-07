@@ -13,7 +13,7 @@ If you are participating in other sports which conflict with our season (April t
 
 Program Information
 -------------------
-MAC Baseball divisions and age groups are as follows:  
+MAC Baseball divisions and age groups are as follows (age on May 1):  
 
 * Jr. Pinto - Ages 5 & 6
 * Pinto - Ages 7 & 8
