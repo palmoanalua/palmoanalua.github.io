@@ -6,19 +6,16 @@ permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
-MAC 2017 - 2018 Basketball Program
+MAC 2018 - 2019 Basketball Program
 ----------------------------------
-## ** Registration for the 2017-2018 season is closed **
-{: .alert .alert-danger .rounded}
-
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
-The 2017-2018 MAC Basketball season is scheduled to run from January through the middle of March, 2018.
+The 2018-2019 MAC Basketball season is scheduled to run from January through the middle of March, 2019.
 
 Program Information
 -------------------
 MAC Basketball divisions and age groups are as follows:  
-(Age of child on 12/31/2017)
+(Age of child on 12/31/2018)
 
 * Jr. Pinto - Ages 5 & 6
 * Pintos - Ages 7 & 8
@@ -37,7 +34,7 @@ Priority for selection are as follows:
 Registration
 ------------
 This year there will only be online registration.  
-**Online Registration is from 10/26/2017 through 11/15/2017**
+**Online Registration is from 10/22/2018 through 11/16/2018**
 
 * If your child is selected, payment must be made by check or money order made payable to MAC for $65. Payment must be made by November 2017 or your child will be taken off the list.
 * You may be required to show proof of birth date
@@ -45,8 +42,7 @@ This year there will only be online registration.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration for the 2017-2018 season is closed **
-{: .alert .alert-danger .rounded}
+## [Click Here to Register Now!](https://docs.google.com/forms/d/e/1FAIpQLSfNQEsJ_5kK6-dDtpvLVe5GBt85jMSx1U62PuWUiUNZDwQR1g/viewform?usp=sf_link){: .link-button}
 
 ------------
 If accepted, you will be sent an email with instructions. Please follow and submit prior to deadline or acceptance into the league will be terminated.
