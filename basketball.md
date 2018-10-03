@@ -45,7 +45,7 @@ This year there will only be online registration.
 ## [Click Here to Register Now!](https://docs.google.com/forms/d/e/1FAIpQLSfNQEsJ_5kK6-dDtpvLVe5GBt85jMSx1U62PuWUiUNZDwQR1g/viewform?usp=sf_link){: .link-button}
 
 ------------
-If accepted, you will be sent an email with instructions. Please follow and submit prior to deadline or acceptance into the league will be terminated.
+After you register, the program coordinator will contact you via email  with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
 
