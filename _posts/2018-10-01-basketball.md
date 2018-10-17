@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2018-2019 Basketball registration!"
-date:   2017-10-01 08:00:00
+date:   2018-10-16 20:00:00
 categories: baseketball
 background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
