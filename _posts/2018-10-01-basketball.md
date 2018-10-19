@@ -7,4 +7,4 @@ background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
 published: true
 ---
-The MAC 2018-2019 basketball registration is open from October 22 through November 16, 2018. Registration is ONLINE ONLY. See our [basketball](/basketball) page for more information.
+The MAC 2018-2019 basketball registration is open from October 19 through November 2, 2018. Registration is ONLINE ONLY. See our [basketball](/basketball) page for more information.
