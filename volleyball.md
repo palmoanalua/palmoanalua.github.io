@@ -5,19 +5,18 @@ permalink: /volleyball/
 background: '/img/bg-volleyball.jpg'
 ---
 
-MAC 2018 Volleyball Program
+MAC 2019 Volleyball Program
 ----------------------------------
-## ** Registration for the 2018 season is closed **
-{: .alert .alert-danger .rounded}
-
-Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
+Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
+program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
+Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
 Program Information
 -------------------
 MAC Volleyball divisions and age groups are as follows:  
-* Pintos (4/30/2011 - 5/1/2009)
-* Mustangs (4/30/2009 to 5/1/2007)
-* Broncos (4/30/2007 - 5/1/2004)
+* Pintos (4/30/2012 - 5/1/2010)
+* Mustangs (4/30/2010 to 5/1/2008)
+* Broncos (4/30/2008 - 5/1/2005)
 
 Priority for selection are as follows:
 --------------------------------------
@@ -29,26 +28,28 @@ Priority for selection are as follows:
 
 Registration
 ------------
-The MAC 2018 volleyball registration is open from January 7 through January 31, 2018. Registration is ONLINE ONLY.
+The MAC 2019 volleyball registration is open from January 5 through January 26, 2018. Registration is ONLINE ONLY.
 
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration for the 2018 season is closed **
-{: .alert .alert-danger .rounded}
+## ** Registration opens on January 5, 2019 **
+{: .alert .alert-warning .rounded}
 
 Notification
 ------------
-If accepted, you will be sent an email with instructions. Please follow and submit prior to deadline or acceptance into the league will be terminated.
+If accepted, you will be sent an email with instructions. Please follow and submit
+prior to deadline or acceptance into the league will be terminated.
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
 
 Check Policy
 ------------
 Checks returned unpaid by your bank will be returned to you by the program coordinator. 
-Your check will not be re-deposited. Within one week of notification, you must make arrangements with the coordinator
- (or any board member) to pay the registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another check.
-  Should your second check be returned, all future payments (regardless of activity) must be made in cash.
-   If you have any questions regarding this policy, please check with the program coordinator.
+Your check will not be re-deposited. Within one week of notification, you must make
+arrangements with the coordinator (or any board member) to pay the registration fee
+plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your second
+check be returned, all future payments (regardless of activity) must be made in cash.
+If you have any questions regarding this policy, please check with the program coordinator.
