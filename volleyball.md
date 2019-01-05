@@ -28,7 +28,7 @@ Priority for selection are as follows:
 
 Registration
 ------------
-The MAC 2019 volleyball registration is open from January 5 through January 26, 2018. Registration is ONLINE ONLY.
+The MAC 2019 volleyball registration is open from January 5 through January 26, 2019. Registration is ONLINE ONLY.
 
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
