@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019 Volleyball registration!"
+title:  "2019 Volleyball registration is open!"
 date:   2019-01-11 21:00:00
 categories: volleyball
 background: '/img/bg-background.jpg'
