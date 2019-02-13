@@ -33,7 +33,7 @@ is ready to begin practices.
 
 Picture-Taking
 --------------
-Picture taking date is TBD
+Picture taking date is Wednesday, May 8 at Ala Puumalu upper field
 
 Registration
 ------------
