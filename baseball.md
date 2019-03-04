@@ -47,7 +47,7 @@ date
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
 *Registration Dates:*
-* Online Registration period is 2/1/2019 - 3/3/2019
+* Online Registration period is 2/1/2019 - 3/6/2019
 * In-person Registration will be held on Tues, 2/19 and Wed, 2/20 from 4:30pm –
 6:30pm at the Moanalua Pavilion (between the Elementary and Middle schools)
 ## [Click Here to Register Now!](https://goo.gl/forms/KsD57E8Rns4IJkI43){: .link-button}{:target="_blank"}
