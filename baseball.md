@@ -24,7 +24,7 @@ MAC Baseball divisions and age groups are as follows (age on May 1):
 * Jr. Pinto - Ages 5 & 6
 * Pinto - Ages 7 & 8
 * Mustang - Ages 9 & 10
-* Bronco – Ages 11 & 12 (please contact MAC Baseball coordinator directly at palmacbaseball@gmail.com)
+* Bronco – Ages 11 & 12
 
 Tryouts
 -------
