@@ -7,6 +7,8 @@ background: '/img/bg-baseball.jpg'
 
 MAC 2019 Baseball Program
 ----------------------------------
+## ** Registration for the 2019 season is closed **
+{: .alert .alert-danger .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Baseball program! The MAC Baseball
 program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
@@ -50,7 +52,9 @@ date
 * Online Registration period is 2/1/2019 - 3/6/2019
 * In-person Registration will be held on Tues, 2/19 and Wed, 2/20 from 4:30pm –
 6:30pm at the Moanalua Pavilion (between the Elementary and Middle schools)
-## [Click Here to Register Now!](https://goo.gl/forms/KsD57E8Rns4IJkI43){: .link-button}{:target="_blank"}
+
+## ** Registration for the 2019 season is closed **
+{: .alert .alert-danger .rounded}
 
 Notification
 ------------
