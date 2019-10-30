@@ -40,7 +40,7 @@ Registration
 This year there will only be online registration.  
 **Online Registration is from 11/04/2019 through 11/22/2019**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $65. Payment must be made by December 1, 2019 or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by December 1, 2019 or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
