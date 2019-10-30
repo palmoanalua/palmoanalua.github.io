@@ -2,7 +2,7 @@
 layout: page
 title: Basketball
 subtitle: Program
-permalink: /basketball-preview/
+permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
