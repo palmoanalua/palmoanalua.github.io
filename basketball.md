@@ -46,8 +46,7 @@ This year there will only be online registration.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration opens Monday, November 4, 2019 **
-{: .alert .alert-info .rounded}
+## [Click Here to Register Now!](https://forms.gle/G8kwrw6GJyt39vPHA){: .link-button}
 
 ------------
 After you register, the program coordinator will contact you via email  with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
