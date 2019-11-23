@@ -9,8 +9,8 @@ background: '/img/bg-basketball.jpg'
 MAC 2019 - 2020 Basketball Program
 ----------------------------------
 
-## ** Registration opens Monday, November 4, 2019 **
-{: .alert .alert-info .rounded}
+# ** Registration is closed **
+{: .alert .alert-danger .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
@@ -46,7 +46,8 @@ This year there will only be online registration.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Register Now!](https://forms.gle/G8kwrw6GJyt39vPHA){: .link-button}
+# ** Registration is closed **
+{: .alert .alert-danger .rounded}
 
 ------------
 After you register, the program coordinator will contact you via email  with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
