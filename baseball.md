@@ -5,10 +5,10 @@ permalink: /baseball/
 background: '/img/bg-baseball.jpg'
 ---
 
-MAC 2019 Baseball Program
+MAC 2020 Baseball Program
 ----------------------------------
-## ** Registration for the 2019 season is closed **
-{: .alert .alert-danger .rounded}
+## ** Registration for the 2020 season will be in February **
+{: .alert .alert-primary .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Baseball program! The MAC Baseball
 program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
@@ -36,25 +36,21 @@ is ready to begin practices.
 
 Picture-Taking
 --------------
-Picture taking date is Wednesday, May 8 at Ala Puumalu upper field.
-Coaches will schedule a time between 4:30pm-6:00pm.
+Picture taking date is to be determined.
 
 Registration
 ------------
-There will be online and in-person registration. Sample uniforms will be
-available for sizing at the in-person registration.
+There will be online registration.
 * First year players with MAC Baseball will be required to provide proof of birth
 date
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
 *Registration Dates:*
-* Online Registration period is 2/1/2019 - 3/6/2019
-* In-person Registration will be held on Tues, 2/19 and Wed, 2/20 from 4:30pm –
-6:30pm at the Moanalua Pavilion (between the Elementary and Middle schools)
+* Online Registration period will be in February
 
-## ** Registration for the 2019 season is closed **
-{: .alert .alert-danger .rounded}
+## ** Registration for the 2020 season will be in February **
+{: .alert .alert-primary .rounded}
 
 Notification
 ------------
@@ -74,5 +70,4 @@ registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another che
 
 ---
 
-Candace Fujishima - MAC Baseball Coordinator - (808) 389-6682 -
-[palmacbaseball@gmail.com](mailto:palmacbaseball@gmail.com) 
+MAC Baseball Coordinator - [palmacbaseball@gmail.com](mailto:palmacbaseball@gmail.com) 
