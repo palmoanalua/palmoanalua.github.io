@@ -7,8 +7,17 @@ background: '/img/bg-baseball.jpg'
 
 MAC 2020 Baseball Program
 ----------------------------------
-## ** Registration for the 2020 season will be in February **
-{: .alert .alert-primary .rounded}
+
+<div class="alert alert-primary .rounded" markdown="1">
+Important Changes to the 2020 Baseball Program
+------
+* This year we will **NOT** be holding in person registrations, registration will be **ONLINE** only
+* Black baseball pants **will be required** for game time and **must be provided by the player**
+* Only socks, game shirt, and a baseball hat will be provided to players this season
+
+If you need more information or have questions on sizing of uniforms, contact
+the league coordinator via email: [palmacbaseball@gmail.com](mailto:palmacbaseball@gmail.com) 
+</div>
 
 Welcome to the Moanalua Athletic Club (MAC) Baseball program! The MAC Baseball
 program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
@@ -38,18 +47,16 @@ Picture-Taking
 --------------
 Picture taking date is to be determined.
 
-Registration
+Registration Information
 ------------
-There will be online registration.
-* First year players with MAC Baseball will be required to provide proof of birth
-date
+Registration for the 2020 season will be February 1 thru 29. 
+Registration will be ONLINE only.
+
+* First year players with MAC Baseball will be required to provide proof of birth date
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-*Registration Dates:*
-* Online Registration period will be in February
-
-## ** Registration for the 2020 season will be in February **
+## ** 2020 Season Registration is February 1 thru 29 **
 {: .alert .alert-primary .rounded}
 
 Notification
