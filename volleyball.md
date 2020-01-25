@@ -7,7 +7,7 @@ background: '/img/bg-volleyball.jpg'
 
 MAC 2020 Volleyball Program
 ----------------------------------
-## ** Registration for the 2020 season is planned for February **
+## ** Registration is January 30 thru February 12 **
 {: .alert .alert-primary .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
@@ -31,7 +31,7 @@ Priority for selection are as follows:
 
 Registration
 ------------
-The MAC 2020 volleyball registration is planned for February.
+The MAC 2020 volleyball registration period is January 30 thru February 12.
 Registration is ONLINE ONLY.
 
 * You may be required to show proof of birth date
@@ -39,7 +39,7 @@ Registration is ONLINE ONLY.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration for the 2020 season is planned for February **
+## ** Registration is January 30 thru February 12 **
 {: .alert .alert-primary .rounded}
 
 Notification
