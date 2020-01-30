@@ -39,8 +39,7 @@ Registration is ONLINE ONLY.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** Registration is January 30 thru February 12 **
-{: .alert .alert-primary .rounded}
+## [Click Here to Register Now!](https://forms.gle/R4Uuw1itfUGMyHS37){: .link-button}{:target="_blank"}
 
 Notification
 ------------
