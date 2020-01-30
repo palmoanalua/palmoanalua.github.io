@@ -56,8 +56,7 @@ Registration will be ONLINE only.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** 2020 Season Registration is February 1 thru 29 **
-{: .alert .alert-primary .rounded}
+## [Click Here to Register Now!](https://forms.gle/C64R91t32GqyEmXo7){: .link-button}{:target="_blank"}
 
 Notification
 ------------
