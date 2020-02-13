@@ -7,8 +7,8 @@ background: '/img/bg-volleyball.jpg'
 
 MAC 2020 Volleyball Program
 ----------------------------------
-## ** Registration is January 30 thru February 12 **
-{: .alert .alert-primary .rounded}
+## ** 2020 Season Registration is closed **
+{: .alert .alert-danger .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
 program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
@@ -40,7 +40,8 @@ Registration is ONLINE ONLY.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Register Now!](https://forms.gle/R4Uuw1itfUGMyHS37){: .link-button}{:target="_blank"}
+## ** 2020 Season Registration is closed **
+{: .alert .alert-danger .rounded}
 
 Notification
 ------------
