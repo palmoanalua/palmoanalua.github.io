@@ -8,6 +8,9 @@ background: '/img/bg-baseball.jpg'
 MAC 2020 Baseball Program
 ----------------------------------
 
+## ** 2020 Season Registration is closed **
+{: .alert .alert-danger .rounded}
+
 <div class="alert alert-primary .rounded" markdown="1">
 Important Changes to the 2020 Baseball Program
 ------
@@ -56,7 +59,8 @@ Registration will be ONLINE only.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Register Now!](https://forms.gle/C64R91t32GqyEmXo7){: .link-button}{:target="_blank"}
+## ** 2020 Season Registration is closed **
+{: .alert .alert-danger .rounded}
 
 Notification
 ------------
