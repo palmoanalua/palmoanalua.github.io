@@ -13,7 +13,9 @@ Registration starts on Monday, December 6th (on-line only) for boys and girls, g
 
 Registration fees will be $30.00 and all participants must be registered with the Moanalua Athletic Club and P.A.L. Participants should also wear athletic shoes and shorts and will not be required to wear masks but coaches will need to wear masks during practice and games.
 
-We are desperately in need of coaches at all levels and hope to have a minimum of two coaches at the court at all times. Please let me know if you are willing and able or know someone who is. To register, go to: [Basketball page]({% link basketball.md %})
+We are desperately in need of coaches at all levels and hope to have a minimum of two coaches at the court at all times. Please let me know if you are willing and able or know someone who is.
+
+### [Click here for Basketball Program Info and Registration]({% link basketball.md %}){: .link-button .pad10}
 
 If you have any questions, you can e-mail me, Dennis Arakaki at: [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com).
 

@@ -9,7 +9,7 @@ background: '/img/bg-basketball.jpg'
 MAC 2021 - 2022 Basketball Program
 ----------------------------------
 
-## Registration Opens Monday, December 6, 2021
+## Registration from December 6 thru 20, 2021
 {: .alert .alert-info .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
@@ -18,8 +18,7 @@ The 2021-2022 MAC Basketball season is scheduled to run from January through the
 
 Program Information
 -------------------
-MAC Basketball divisions and age groups are as follows:  
-(Age of child on 12/31/2021)
+MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2021)
 
 * Jr. Pinto - Ages 5 & 6
 * Pintos - Ages 7 & 8
@@ -46,8 +45,7 @@ This year there will only be online registration.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## Registration Opens Monday, December 6, 2021
-{: .alert .alert-info .rounded}
+## [Click Here to Register Now!](https://forms.gle/MKGCDuJRcZrW47jd9){: .link-button .pad10}
 
 ------------
 After you register, the program coordinator will contact you via email  with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
