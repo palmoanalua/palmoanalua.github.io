@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021-2022 Baseball Registration open from December 6 - 20 (online only)"
+title:  "2021-2022 Basketball Registration open from December 6 - 20 (online only)"
 date:   2021-12-02 10:00:01
 categories: basketball
 background: '/img/bg-background.jpg'
