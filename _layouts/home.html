@@ -39,7 +39,7 @@ layout: default
             {% if post.subtitle %}
               <p class="post-subtitle">{{ post.subtitle }}</p>
             {% else %}
-              <p class="post-subtitle">{{ post.excerpt | truncatewords: 100 }}</p>
+              <p class="post-subtitle">{{ post.excerpt | truncatewords: 500 }}</p>
             {% endif %}
             <p class="post-meta">Posted by
               {% if post.author %}
