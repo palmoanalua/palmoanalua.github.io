@@ -18,7 +18,7 @@ Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schoo
 Program Information
 -------------------
 MAC Volleyball divisions and age groups are as follows:  
-* Pintos (4/30/2015 - 5/1/2013) (If allowed the use of the elementary school courts)
+* Pintos (4/30/2015 - 5/1/2013)
 * Mustangs (4/30/2013 to 5/1/2011)
 * Broncos (4/30/2011 - 5/1/2008)
 
