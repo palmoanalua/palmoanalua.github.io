@@ -5,10 +5,11 @@ permalink: /volleyball/
 background: '/img/bg-volleyball.jpg'
 ---
 
-MAC 2020 Volleyball Program
+MAC 2022 Volleyball Program
 ----------------------------------
-## ** 2020 Season Registration is closed **
-{: .alert .alert-danger .rounded}
+
+## ** Signup is coming soon **
+{: .alert .alert-primary .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
 program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
@@ -17,10 +18,10 @@ Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schoo
 Program Information
 -------------------
 MAC Volleyball divisions and age groups are as follows:  
-* Pony (4/30/2015 - 5/1/2013)
-* Pintos (4/30/2013 - 5/1/2011)
-* Mustangs (4/30/2011 to 5/1/2009)
-* Broncos (4/30/2009 - 5/1/2006)
+* Pony (4/30/2017 - 5/1/2015)
+* Pintos (4/30/2015 - 5/1/2013)
+* Mustangs (4/30/2013 to 5/1/2011)
+* Broncos (4/30/2011 - 5/1/2008)
 
 Priority for selection are as follows:
 --------------------------------------
@@ -30,23 +31,21 @@ Priority for selection are as follows:
 1. All other players
 1. Players who are requesting specific days of practice and are not a head coaches child
 
-Registration
+Signup
 ------------
-The MAC 2020 volleyball registration period is January 30 thru February 12.
-Registration is ONLINE ONLY.
+The MAC 2022 volleyball signup period is coming soon.
+Signup is ONLINE ONLY.
 
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** 2020 Season Registration is closed **
-{: .alert .alert-danger .rounded}
+## [SIGNUP TEST](https://forms.gle/bzgqWWPEJaxM5CfG9){: .link-button .pad10}
 
 Notification
 ------------
-If accepted, you will be sent an email with instructions. Please follow and submit
-prior to deadline or acceptance into the league will be terminated.
+If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by March 31, 2022 or your child will be taken off the list.
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
 
