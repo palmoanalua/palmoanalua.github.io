@@ -8,7 +8,7 @@ background: '/img/bg-volleyball.jpg'
 MAC 2022 Volleyball Program
 ----------------------------------
 
-## ** Signup is coming soon **
+## ** Registration from March 8 through March 22 **
 {: .alert .alert-primary .rounded}
 
 Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
@@ -18,10 +18,21 @@ Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schoo
 Program Information
 -------------------
 MAC Volleyball divisions and age groups are as follows:  
-* Pony (4/30/2017 - 5/1/2015)
-* Pintos (4/30/2015 - 5/1/2013)
+* Pintos (4/30/2015 - 5/1/2013) (If allowed the use of the elementary school courts)
 * Mustangs (4/30/2013 to 5/1/2011)
 * Broncos (4/30/2011 - 5/1/2008)
+
+Teams will be formed only if we have a minimum of 1 coach and 9 players
+
+The 2022 season will run from April 2022 - June 22
+(Team assignments and practices start after 3/22/22)
+
+Practices are held at Moanalua Community Park Courts
+
+We need Coaches and Assistant Coaches
+If we don't have the sufficient number of coches, the number of participants will be limited
+
+Coaches' child or children are given priority for placement and Fees will be waived.
 
 Priority for selection are as follows:
 --------------------------------------
@@ -33,7 +44,8 @@ Priority for selection are as follows:
 
 Signup
 ------------
-The MAC 2022 volleyball signup period is coming soon.
+The MAC 2022 volleyball signup period is from March 8 through March 22
+
 Signup is ONLINE ONLY.
 
 * You may be required to show proof of birth date
@@ -41,11 +53,11 @@ Signup is ONLINE ONLY.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [SIGNUP TEST](https://forms.gle/bzgqWWPEJaxM5CfG9){: .link-button .pad10}
+## [Click here to Register now!](https://forms.gle/bzgqWWPEJaxM5CfG9){: .link-button .pad10}
 
-Notification
-------------
-If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by March 31, 2022 or your child will be taken off the list.
+Notification and Payment
+------------------------
+If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $30. Registration and payment must be sent and postmarked by Friday, April 1st, 2022, or your child will be taken off the list.
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
 
