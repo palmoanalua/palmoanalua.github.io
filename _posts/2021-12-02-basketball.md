@@ -5,7 +5,7 @@ date:   2021-12-02 10:00:01
 categories: basketball
 background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
-published: true
+published: false
 ---
 Aloha! I apologize for the late notice, but we were just informed by HPD that Police Activity League (P.A.L.) basketball will be sponsored again primarily for elementary and middle school students attending Moanalua Elementary and Middle Schools as well as those residing in the community.
 
