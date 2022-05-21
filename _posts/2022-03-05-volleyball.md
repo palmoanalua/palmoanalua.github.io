@@ -5,7 +5,7 @@ date:   2022-03-05 10:00:01
 categories: volleyball
 background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
-published: true
+published: false
 ---
 We were just informed by HPD that Police Activity League (P.A.L.) volleyball will be sponsored again primarily for elementary and middle school students attending Moanalua Elementary and Middle Schools as well as those residing in the community.
 
