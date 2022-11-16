@@ -6,18 +6,15 @@ permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
-MAC 2021 - 2022 Basketball Program
+MAC 2022 - 2023 Basketball Program
 ----------------------------------
-## ** 2021-2022 Season Registration is closed **
-{: .alert .alert-danger .rounded}
-
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
-The 2021-2022 MAC Basketball season is scheduled to run from January through the middle of March, 2022.
+The 2022-2023 MAC Basketball season is scheduled to run from January through the middle of March, 2023. Practices can start December 5, 2022 and games should start in early January 2023.
 
 Program Information
 -------------------
-MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2021)
+MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2022)
 
 * Jr. Pinto - Ages 5 & 6
 * Pintos - Ages 7 & 8
@@ -36,19 +33,16 @@ Priority for selection are as follows:
 Registration
 ------------
 This year there will only be online registration.  
-**Online Registration is from 12/06/2021 through 12/20/2021**
+**Online Registration is from 11/18/2022 through 12/2/2022**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by January 1, 2022 or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by January 1, 2023 or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** 2021-2022 Season Registration is closed **
-{: .alert .alert-danger .rounded}
-
 ------------
-After you register, the program coordinator will contact you via email  with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
+After you register, the program coordinator will contact you via email with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
 
