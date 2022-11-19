@@ -10,7 +10,11 @@ MAC 2022 - 2023 Basketball Program
 ----------------------------------
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
 
-The 2022-2023 MAC Basketball season is scheduled to run from January through the middle of March, 2023. Practices can start December 5, 2022 and games should start in early January 2023.
+The 2022-2023 MAC Basketball season is scheduled to run from January 7, 2023 – March 18, 2023
+
+Cost: $50.00 (Primarily for uniforms & team equipment)
+We need Coaches & Assistant Coaches!!! Also team moms. 
+Coaches’ & Assistant Coaches’ child or children given priority for placement
 
 Program Information
 -------------------
@@ -33,9 +37,9 @@ Priority for selection are as follows:
 Registration
 ------------
 This year there will only be online registration.  
-**Online Registration is from 11/18/2022 through 12/2/2022**
+**Online Registration is from 11/22/2022 through 12/2/2022**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $30. Payment must be made by January 1, 2023 or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by January 1, 2023 or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
