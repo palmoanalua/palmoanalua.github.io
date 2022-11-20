@@ -39,7 +39,7 @@ Registration
 This year there will only be online registration.  
 **Online Registration is from 11/22/2022 through 12/2/2022**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by January 1, 2023 or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by December 16, 2023 or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
