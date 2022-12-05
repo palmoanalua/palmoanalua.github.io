@@ -20,6 +20,8 @@ Program Information
 -------------------
 MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2022)
 
+**Update 12/4: Jr. Pinto, Pintos, Mustangs, and Broncos age groups are full.**
+
 * Jr. Pinto - Ages 5 & 6
 * Pintos - Ages 7 & 8
 * Mustangs - Ages 9 & 10
