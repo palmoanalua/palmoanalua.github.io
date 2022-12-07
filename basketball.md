@@ -47,7 +47,8 @@ This year there will only be online registration.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Register Now!](https://forms.gle/pV6LFU2mv4rMEjXF9){: .link-button .pad10}
+## ** 2022-2023 Season Registration is closed **
+{: .alert .alert-danger .rounded}
 
 ------------
 After you register, the program coordinator will contact you via email with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
