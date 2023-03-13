@@ -5,34 +5,31 @@ permalink: /volleyball/
 background: '/img/bg-volleyball.jpg'
 ---
 
-MAC 2022 Volleyball Program
+MAC 2023 Volleyball Program
 ----------------------------------
-
-## ** 2022 Season Registration is closed **
-{: .alert .alert-danger .rounded}
-
-Welcome to the Moanalua Athletic Club (MAC) Volleyball program! The MAC Volleyball
-program is primarily for youth residing in the Moanalua area (Fort Shafter to Red
-Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
+Welcome to the Moanalua Athletic Club (MAC) Volleyball program!
+The MAC Volleyball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle schools.
 
 Program Information
 -------------------
-MAC Volleyball divisions and age groups are as follows:  
-* Pintos (4/30/2015 - 5/1/2013)
-* Mustangs (4/30/2013 to 5/1/2011)
-* Broncos (4/30/2011 - 5/1/2008)
+MAC Volleyball divisions and age groups are as follows:
 
-Teams will be formed only if we have a minimum of 1 coach and 9 players
+Age is determined by the age of the child on January 1, 2023.
 
-The 2022 season will run from April 2022 - June 22
-(Team assignments and practices start after 3/22/22)
+* Pintos - Ages 7 & 8
+* Mustangs - Ages 9 & 10
+* Broncos - Ages 11 & 12
 
-Practices are held at Moanalua Community Park Courts
+The 2023 season will run from April 1, 2023 - June 2023
 
-We need Coaches and Assistant Coaches
-If we don't have the sufficient number of coches, the number of participants will be limited
 
-Coaches' child or children are given priority for placement and Fees will be waived.
+**We need volunteer Coaches and Assistant Coaches!**
+* Teams will be formed if we have a minimum of 2 coaches and 9 players.
+* If we don't have enough coaches, the number of participants will be limited.
+* Coaches' child or children are given priority for placement and Fees will be waived.
+* Team assignments and practices start after 3/22/23
+
+Practices are held at Moanalua Community Park Courts and Moanalua Elementary School courts (pending MES approval)
 
 Priority for selection are as follows:
 --------------------------------------
@@ -44,23 +41,23 @@ Priority for selection are as follows:
 
 Signup
 ------------
-The MAC 2022 volleyball signup period is from March 8 through March 22
+The MAC 2023 volleyball sign-up period is from March 14 through March 22.
 
-Signup is ONLINE ONLY.
+Sign-up is ONLINE ONLY.
+
+## NOTE: After signing up on the website, your child will be placed on a wait list. Players will be assigned to a team after registration form and fee is received.
+{: .alert .alert-primary .rounded}
 
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## ** 2022 Season Registration is closed **
-{: .alert .alert-danger .rounded}
-
 Notification and Payment
 ------------------------
-If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $30. Registration and payment must be sent and postmarked by Friday, April 1st, 2022, or your child will be taken off the list.
-
-Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
+If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $30.
+This fee primarily covers the cost of t-shirt uniforms & equipment.
+**Registration and payment must be sent and postmarked by Monday, March 27, 2023**, or your child will be taken off the list.
 
 Check Policy
 ------------
@@ -70,3 +67,7 @@ arrangements with the coordinator (or any board member) to pay the registration 
 plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your second
 check be returned, all future payments (regardless of activity) must be made in cash.
 If you have any questions regarding this policy, please check with the program coordinator.
+
+## [Click Here to sign up!](https://forms.gle/ZQkQFSqim2Tnxq7r6){: .link-button}{:target="_blank"}
+
+Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
