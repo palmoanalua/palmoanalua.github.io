@@ -68,6 +68,7 @@ plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your s
 check be returned, all future payments (regardless of activity) must be made in cash.
 If you have any questions regarding this policy, please check with the program coordinator.
 
-## [Click Here to sign up!](https://forms.gle/ZQkQFSqim2Tnxq7r6){: .link-button}{:target="_blank"}
+## ** 2023 Season Sign-ups are closed **
+{: .alert .alert-danger .rounded}
 
 Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
