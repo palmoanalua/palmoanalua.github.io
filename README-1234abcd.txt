@@ -1,5 +1,5 @@
 Launch server
-jekyll serve --host $IP --port $PORT --baseurl ''
+bundle exec jekyll serve --host $IP --port $PORT --baseurl ''
 
 Shutdown Environment
 sudo poweroff
