@@ -81,7 +81,7 @@ Sign-ups for the 2023 season will be May 10 thru 16.
 Sign-ups will be ONLINE only.
 
 
-## [Click Here to Register Now!](https://forms.gle/ym1foRGwnMvAAkHR7){: .link-button}{:target="_blank"}
+## [Click Here to Sign-up Now!](https://forms.gle/ym1foRGwnMvAAkHR7){: .link-button}{:target="_blank"}
 
 Payment
 ------------
