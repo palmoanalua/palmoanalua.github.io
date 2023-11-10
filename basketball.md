@@ -6,27 +6,27 @@ permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
-MAC 2022 - 2023 Basketball Program
+MAC 2023 - 2024 Basketball Program
 ----------------------------------
-Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle Schools.
+Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), and/or attending Moanalua Elementary, Moanalua Middle or Moanalua High (9th grade only) Schools.
 
-The 2022-2023 MAC Basketball season is scheduled to run from January 7, 2023 – March 18, 2023
+The 2023-2024 MAC Basketball season is scheduled to run from November 27, 2023 - March 16, 2024.
 
-Cost: $50.00 (Primarily for uniforms & team equipment)
-We need Coaches & Assistant Coaches!!! Also team moms. 
-Coaches’ & Assistant Coaches’ child or children given priority for placement
+Cost: $50.00 (Primarily for uniforms, awards, banners, & team equipment).
+
+We need team moms, Coaches & Assistant Coaches!!!
+
+Coaches’ & Assistant Coaches’ child or children given priority for placement. If coaches are not available, the team in your child's age group will not be formed.
 
 Program Information
 -------------------
-MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2022)
+MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2023)
 
-**Update 12/4: Jr. Pinto, Pintos, Mustangs, and Broncos age groups are full.**
-
-* Jr. Pinto - Ages 5 & 6
+* Jr. Pinto - Ages 5 (must be five on December 31, 2023) & 6
 * Pintos - Ages 7 & 8
 * Mustangs - Ages 9 & 10
 * Broncos - Ages 11 & 12
-* Pony - Ages 13 & 14
+* Pony - Ages 13
 
 Priority for selection are as follows:
 --------------------------------------
@@ -34,27 +34,33 @@ Priority for selection are as follows:
 1. Players living in the Moanalua Elementary district (proof of residency required which needs to be a utility bill addressed to legal guardian of player)
 1. Players who have obtained a Geographic Exception to Moanalua Elementary or Middle School (player's school schedule acceptable)
 1. All other players
-1. Players who are requesting specific days of practice and are not a head coaches child
+1. Players who are requesting specific days of practice and are not a head coaches' child
 
-Registration
-------------
-This year there will only be online registration.  
-**Online Registration is from 11/22/2022 through 12/6/2022**
+Registration is a two-step process
+----------------------------------
+1. **_Sign-up_** - Provide information about the child and parents.
+1. **_Registration_** and payment (a child will not be placed on a team roster until this step is completed).
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by December 16, 2022 or your child will be taken off the list.
+This year there will only be online sign-ups which will be open from **11/13/2023 through 11/22/2023**
+
+* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 10, 2023** or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
-* *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
-* *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
+* *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
+* *RETURNS ON UNIFORMS OR PAYMENT WILL NOT BE PROVIDED AFTER UNIFORMS ARE ORDERED*{: .badge .badge-danger .badge-text-larger}
 
-## ** 2022-2023 Season Registration is closed **
-{: .alert .alert-danger .rounded}
+## [Click Here to Sign-up Now!](https://forms.gle/i3YhjEA9gfe5LbuJA){: .link-button .pad10}
 
 ------------
-After you register, the program coordinator will contact you via email with instructions to remit your payment. Please make your payment prior to the deadline or acceptance into the league will be terminated.
+After you sign-up, the program coordinator will contact you via email with instructions to complete the PAL registration form and to remit your payment of $50. Please make your payment prior to the deadline or acceptance into the league will be terminated.
 
-Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com)  for questions or assistance.
+Remember, your child is not **_Registered_** until the payment and PAL registration form is received.
+
+Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com) or Dennis Arakaki at (808) 271-0947 for questions or assistance.
 
 Check Policy
 ------------
+
+**For recordkeeping purposes, we <u>prefer</u> a personal check from a local bank.**
+
 Checks returned unpaid by your bank will be returned to you by the program coordinator. Your check will not be re-deposited. Within one week of notification, you must make arrangements with the coordinator (or any board member) to pay the registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your second check be returned, all future payments (regardless of activity) must be made in cash. If you have any questions regarding this policy, please check with the program coordinator.
