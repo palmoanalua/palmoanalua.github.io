@@ -49,8 +49,6 @@ This year there will only be online sign-ups which will be open from **11/13/202
 * *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS OR PAYMENT WILL NOT BE PROVIDED AFTER UNIFORMS ARE ORDERED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Sign-up Now!](https://forms.gle/i3YhjEA9gfe5LbuJA){: .link-button .pad10}
-
 ------------
 After you sign-up, the program coordinator will contact you via email with instructions to complete the PAL registration form and to remit your payment of $50. Please make your payment prior to the deadline or acceptance into the league will be terminated.
 
