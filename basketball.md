@@ -26,7 +26,7 @@ MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2
 * Pintos - Ages 7 & 8
 * Mustangs - Ages 9 & 10
 * Broncos - Ages 11 & 12
-* Pony - Ages 13
+* Pony - Ages 13 & 14
 
 Priority for selection are as follows:
 --------------------------------------
@@ -48,6 +48,8 @@ This year there will only be online sign-ups which will be open from **11/13/202
 * You may be required to show proof of residency or geographic exception
 * *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS OR PAYMENT WILL NOT BE PROVIDED AFTER UNIFORMS ARE ORDERED*{: .badge .badge-danger .badge-text-larger}
+
+## [Click Here to Sign-up Now!](https://forms.gle/i3YhjEA9gfe5LbuJA){: .link-button .pad10}
 
 ------------
 After you sign-up, the program coordinator will contact you via email with instructions to complete the PAL registration form and to remit your payment of $50. Please make your payment prior to the deadline or acceptance into the league will be terminated.
