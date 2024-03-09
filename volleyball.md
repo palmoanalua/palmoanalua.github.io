@@ -12,6 +12,8 @@ The MAC Volleyball program is primarily for youth residing in the Moanalua area 
 
 Program Information
 -------------------
+The 2024 season will run from April 1, 2024 - June 2024
+
 MAC Volleyball divisions and age groups are as follows:
 
 Age is determined by the age of the child on January 1, 2024.
@@ -19,14 +21,15 @@ Age is determined by the age of the child on January 1, 2024.
 * Pintos - Ages 7 & 8
 * Mustangs - Ages 9 & 10
 * Broncos - Ages 11 & 12
-
-The 2024 season will run from April 1, 2024 - June 2024
+* Pony - Ages 13 & 14 (*Needs a volunteer to be head coach and a minimum of 8 players to form a team*)
 
 **We need volunteer Coaches and Assistant Coaches!**
 * Teams will be formed if we have a minimum of 2 coaches and 9 players.
-* If we don't have enough coaches, the number of participants will be limited.
+  * *If we don't have enough coaches, the number of participants will be limited.*
+* The Pony division needs a head coach and a minimum of 8 players for a team to be formed.
 * Coaches' child or children are given priority for placement and Fees will be waived.
 * Team assignments and practices start after 3/24/24
+
 
 Practices are held at Moanalua Community Park Courts and Moanalua Elementary School courts (pending MES approval)
 
