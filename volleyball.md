@@ -55,8 +55,6 @@ Sign-up is ONLINE ONLY.
 * *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
 * *RETURNS ON UNIFORMS WILL NOT BE ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to sign up!](https://forms.gle/b7TZG5MeriFzDYzt5){: .link-button}{:target="_blank"}
-
 Notification and Payment
 ------------------------
 If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $30.
