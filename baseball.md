@@ -65,7 +65,7 @@ These fees cover the cost of:
 * Providing player team jersey, baseball pants and caps
 * Team supplies (bats, balls, catcher’s mask, etc.)
 
-<span style="color:red">Payment is due on June 4, the first day of practice.</span>
+<span style="color:red">Payment is due on May 29.</span>
 
 Uniforms
 --------
@@ -89,7 +89,7 @@ Sign-ups are ONLINE only.
 Payment
 ------------
 A completed registration form and payment must be received before a player is assigned to a team.
-<span style="color:red">Payment is due on June 4, the first day of practice.</span>
+<span style="color:red">Payment is due on May 29.</span>
 
 Check Policy
 ------------
