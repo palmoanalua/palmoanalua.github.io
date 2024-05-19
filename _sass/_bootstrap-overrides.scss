@@ -37,3 +37,21 @@ h2#click-here-to-register-now {
 p {
   margin: 15px 0;
 }
+
+table {
+  border-collapse: collapse; 
+  border:1px solid #69899F;
+  margin-bottom: 20px;
+} 
+table td{
+  border:1px dotted #000000;
+  padding:10px;
+}
+table td:first-child{
+  border-left:0px solid #000000;
+}
+table th{
+ border:2px solid #69899F;
+ background-color: #ddd;
+ padding:10px;
+}
