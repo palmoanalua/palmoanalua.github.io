@@ -6,11 +6,14 @@ permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
-MAC 2023 - 2024 Basketball Program
+MAC 2024 - 2025 Basketball Program
 ----------------------------------
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), and/or attending Moanalua Elementary, Moanalua Middle or Moanalua High (9th grade only) Schools.
 
-The 2023-2024 MAC Basketball season is scheduled to run from November 27, 2023 - March 16, 2024.
+The 2024-2025 MAC Basketball season is scheduled for these dates:
+* November 18 - 27 - Signups (you will be put on a waitlist)
+* November 25 - December 4 - Registration (you will be contactd to complete PAL forms and payment)
+* December 4 - Practice starts
 
 Cost: $50.00 (Primarily for uniforms, awards, banners, & team equipment).
 
@@ -20,12 +23,12 @@ Coaches’ & Assistant Coaches’ child or children given priority for placement
 
 Program Information
 -------------------
-MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2023)
+MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2024)
 
-* (Sign-up closed for Jr. Pintos) - Ages 5 (must be five on December 31, 2023) & 6
-* (Sign-up closed for Pintos) - Ages 7 & 8
-* (Sign-up closed for Mustangs) - Ages 9 & 10
-* (Sign-up closed for Broncos) - Ages 11 & 12
+* Jr. Pintos - Ages 5 (must be five on December 31, 2024) & 6
+* Pintos - Ages 7 & 8
+* Mustangs - Ages 9 & 10
+* Broncos - Ages 11 & 12
 * Pony - Ages 13 & 14
 
 Priority for selection are as follows:
@@ -41,9 +44,9 @@ Registration is a two-step process
 1. **_Sign-up_** - Provide information about the child and parents.
 1. **_Registration_** and payment (a child will not be placed on a team roster until this step is completed).
 
-This year there will only be online sign-ups which will be open from **11/13/2023 through 11/22/2023**
+This year there will only be online sign-ups which will be open from **11/18/2024 through 11/27/2024**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 10, 2023** or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 20, 2024** or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
