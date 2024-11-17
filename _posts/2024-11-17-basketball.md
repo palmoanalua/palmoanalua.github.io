@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024-2026 Basketball Sign-ups!"
+title:  "2024-2025 Basketball Sign-ups!"
 date:   2024-11-17 00:00:00
 categories: baseketball
 background: '/img/bg-background.jpg'
