@@ -12,12 +12,12 @@ Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketba
 
 The 2024-2025 MAC Basketball season is scheduled for these dates:
 * November 18 - 27 - Signups (you will be put on a waitlist)
-* November 25 - December 4 - Registration (you will be contactd to complete PAL forms and payment)
-* December 4 - Practice starts
+* November 25 - December 4 - Registration (you will be contacted to complete PAL forms and payment)
+* December 4 - Payment due; Practice starts
 
 Cost: $50.00 (Primarily for uniforms, awards, banners, & team equipment).
 
-We need team moms, Coaches & Assistant Coaches!!!
+We need Team Moms, Coaches & Assistant Coaches!!!
 
 Coaches’ & Assistant Coaches’ child or children given priority for placement. If coaches are not available, the team in your child's age group will not be formed.
 
@@ -46,7 +46,7 @@ Registration is a two-step process
 
 This year there will only be online sign-ups which will be open from **11/18/2024 through 11/27/2024**
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 20, 2024** or your child will be taken off the list.
+* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 4, 2024** or your child will be taken off the list.
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
 * *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
