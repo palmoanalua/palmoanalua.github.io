@@ -11,7 +11,7 @@ MAC 2024 - 2025 Basketball Program
 Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), and/or attending Moanalua Elementary, Moanalua Middle or Moanalua High (9th grade only) Schools.
 
 The 2024-2025 MAC Basketball season is scheduled for these dates:
-* November 18 - 27 - Signups (you will be put on a waitlist)
+* November 18 - December 1 - Signups (you will be put on a waitlist)
 * November 25 - December 4 - Registration (you will be contacted to complete PAL forms and payment)
 * December 4 - Payment due; Practice starts
 
