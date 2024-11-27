@@ -44,7 +44,7 @@ Registration is a two-step process
 1. **_Sign-up_** - Provide information about the child and parents.
 1. **_Registration_** and payment (a child will not be placed on a team roster until this step is completed).
 
-This year there will only be online sign-ups which will be open from **11/18/2024 through 11/27/2024**
+This year there will only be online sign-ups which will be open from **11/18/2024 through 12/1/2024**
 
 * If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 4, 2024** or your child will be taken off the list.
 * You may be required to show proof of birth date
