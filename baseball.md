@@ -50,7 +50,7 @@ The priority for selection is as follows:
 
 Season Information
 ------------------
-Practices at Moanalua Park Field 
+Practices at Moanalua Community Park Field 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1858.0167616242531!2d-157.89567204340912!3d21.34917289323016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006ede7e077d47%3A0x75998e456510b11b!2sMoanalua%20Community%20Park!5e0!3m2!1sen!2sus!4v1747508402596!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * Practice days are Tuesdays & Thursdays
 * Jr. Pintos & Pintos: 3:15 PM – 4:45 PM
@@ -86,7 +86,7 @@ Sign-up Information
 ------------
 Sign-ups for the 2025 season will be May 18 thru 25. 
 
-## [Click Here to Sign-up Now!](https://forms.gle/PXJYwDWeQPKXosUg6){: .link-button}{:target="_blank"}
+## [Click Here to Sign-up Now!](https://forms.gle/V877Yybtefu3ik8Z7){: .link-button}{:target="_blank"}
 
 Sign-ups are ONLINE only.
 
