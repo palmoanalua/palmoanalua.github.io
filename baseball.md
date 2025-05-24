@@ -12,7 +12,7 @@ We will accept players for the Mustang age group (Grades 4 & 5) and a few sixth 
 The age determination date is the child’s age on January 1, 2025.
 Teams are for boys and girls (co-ed).
 
-We will also form a Pinto team (Grades 2 & 3) and will also sign up Jr. Pinto players (Grades Kindergarten & First, as roster limits allow.
+May 23 Update: Signups for Jr Pinto and Pinto age division are closed. We have reached the maximum number of signups. Mustang/Bronco division signups are still available.
 
 The minimum number of players is 9 and the maximum is 16.
 Grade levels are grades Kindergarten through 3rd grade for the Jr. Pinto/Pinto team and Grades 4 - 6 for Mustang/Broncos.
