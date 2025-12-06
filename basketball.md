@@ -6,30 +6,42 @@ permalink: /basketball/
 background: '/img/bg-basketball.jpg'
 ---
 
-MAC 2024 - 2025 Basketball Program
+MAC 2025 - 2026 Basketball Program
 ----------------------------------
-Welcome to the Moanalua Athletic Club (MAC) Basketball program! The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), and/or attending Moanalua Elementary, Moanalua Middle or Moanalua High (9th grade only) Schools.
+Welcome to the Moanalua Athletic Club (MAC) Basketball program!
+The MAC Basketball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), and/or attending Moanalua Elementary, Moanalua Middle or Moanalua High (9th grade only) Schools.
 
-The 2024-2025 MAC Basketball season is scheduled for these dates:
-* November 18 - December 1 - Signups (you will be put on a waitlist)
-* November 25 - December 4 - Registration (you will be contacted to complete PAL forms and payment)
-* December 4 - Payment due; Practice starts
+Although we decided not to offer basketball this season due to the physical limitations of the Coordinator for the Moanalua Athletic Club sports program, making him no longer available.
 
-Cost: $50.00 (Primarily for uniforms, awards, banners, & team equipment).
+We have reconsidered because of the request by two of last year’s coaches and their willingness to coach a team.
+We decided to offer the activity for other age groups with hopes that parents/or volunteers would step up and offer to coach a team.
 
-We need Team Moms, Coaches & Assistant Coaches!!!
+**However, if a team does not have a head coach, they will not be entered.**
 
-Coaches’ & Assistant Coaches’ child or children given priority for placement. If coaches are not available, the team in your child's age group will not be formed.
 
 Program Information
 -------------------
-MAC Basketball divisions and age groups are as follows: (Age of child on 12/31/2024)
+The 2025-26 season will run tentatively from December 15, 2025 - March 7, 2026 
+MAC Basketball divisions and age groups are as follows:
+Age is determined by the age of the child on January 1, 2026.
 
-* Jr. Pintos - Ages 5 (must be five on December 31, 2024) & 6
-* Pintos - Ages 7 & 8
-* Mustangs - Ages 9 & 10
-* Broncos - Ages 11 & 12
-* Pony - Ages 13 & 14
+| Division | Age | Note |
+|---|---|---|---|
+| Jr. Pintos  | 5 & 6 ||
+| Pintos | 7 & 8 ||
+| Mustangs | 9 & 10 ||
+| Broncos | 11 & 12 ||
+| Pony | 13 & 14 |(Tentative)|
+
+**We need Team Moms, Coaches & Assistant Coaches!!!**
+j
+* Teams will be formed if we have a minimum of 2 coaches and 10 players.
+* We have commitment from coaches for the Mustang and Pony team.
+* Coaches’ child or children are given priority for placement and Fees will be waived/discounted.
+* Team assignments and practices start after 12/15/2025
+* Child will be officially placed on a team after his/her registration form and payment is received.
+
+Practices are held at Moanalua Community Park Courts and Moanalua Elementary School courts (pending MES approval)
 
 Priority for selection are as follows:
 --------------------------------------
@@ -39,31 +51,38 @@ Priority for selection are as follows:
 1. All other players
 1. Players who are requesting specific days of practice and are not a head coaches' child
 
-Registration is a two-step process
+ Sign-up Process
 ----------------------------------
-1. **_Sign-up_** - Provide information about the child and parents.
-1. **_Registration_** and payment (a child will not be placed on a team roster until this step is completed).
+The MAC 2025-2026 Basketball sign-up period is from December 8 through December 14, 2025.
 
-This year there will only be online sign-ups which will be open from **11/18/2024 through 12/1/2024**
+Sign-up is ONLINE ONLY.
 
-* If your child is selected, payment must be made by check or money order made payable to MAC for $50. Payment must be made by **December 4, 2024** or your child will be taken off the list.
+**NOTE: After signing up on the website, your child will be placed on a wait list. Players will be assigned to a team after registration form and fee is received.**
+
+To clarify how to get your child on a team:
+1.	Sign up online between December 8 through December 14
+2.	The MAC coordinator will email you an acknowledgement with a PAL registration form attachment.
+3.	Mail your completed registration form AND payment to the address provided in the email by the stated deadline.
+4.	We must receive your registration form and payment by December 17, 2025.
+5.	Once your registration form and payment have been processed your child will be placed on a team
 * You may be required to show proof of birth date
 * You may be required to show proof of residency or geographic exception
-* *LATE REGISTRATIONS WILL ONLY BE ACCEPTED IF SPACE IS AVAILABLE*{: .badge .badge-danger .badge-text-larger}
-* *RETURNS ON UNIFORMS OR PAYMENT WILL NOT BE PROVIDED AFTER UNIFORMS ARE ORDERED*{: .badge .badge-danger .badge-text-larger}
+* *ABSOLUTELY NO LATE REGISTRATIONS*{: .badge .badge-danger .badge-text-larger}
+* *RETURNS ON UNIFORMS WILL NOT ACCEPTED*{: .badge .badge-danger .badge-text-larger}
 
-## [Click Here to Sign-up Now!](https://forms.gle/i3YhjEA9gfe5LbuJA){: .link-button .pad10}
+## [Click Here to Sign-up!](https://forms.gle/KFxTp7k82WAEmVWF6){: .link-button .pad10}
 
-------------
-After you sign-up, the program coordinator will contact you via email with instructions to complete the PAL registration form and to remit your payment of $50. Please make your payment prior to the deadline or acceptance into the league will be terminated.
-
-Remember, your child is not **_Registered_** until the payment and PAL registration form is received.
-
-Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com) or Dennis Arakaki at (808) 271-0947 for questions or assistance.
+Notification and Payment
+------------------------
+If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $30.
+This fee primarily covers the cost of the uniforms & equipment.
+**Registration and payment must be sent and postmarked by Wednesday, December 17, 2025, or your child will be taken off the list.**
 
 Check Policy
 ------------
 
 **For recordkeeping purposes, we <u>prefer</u> a personal check from a local bank.**
 
-Checks returned unpaid by your bank will be returned to you by the program coordinator. Your check will not be re-deposited. Within one week of notification, you must make arrangements with the coordinator (or any board member) to pay the registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your second check be returned, all future payments (regardless of activity) must be made in cash. If you have any questions regarding this policy, please check with the program coordinator.
+Checks returned unpaid by your bank will be returned to you by the program coordinator. Your check will not be re-deposited. Within one week of notification, you must plan with the coordinator or your child’s coach, to pay the registration fee plus $20.00 (bank charges) by either: 1) cash or 2) another check. Should your second check be returned, all future payments (regardless of activity) must be made in cash. If you have any questions regarding this policy, please check with the program coordinator.
+
+Contact [palmoanalua@gmail.com](mailto:palmoanalua@gmail.com) for questions or assistance.
