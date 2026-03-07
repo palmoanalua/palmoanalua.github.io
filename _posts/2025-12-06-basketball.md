@@ -5,7 +5,7 @@ date:   2025-12-06 10:00:00
 categories: baseketball
 background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
-published: true
+published: false
 ---
 Aloha and welcome to the Moanalua Athletic Program!
 The Moanalua Athletic program is primarily for youth residing in the Moanalua area (Fort Shafter to Red and of the H-1 Freeway).

@@ -5,31 +5,31 @@ permalink: /volleyball/
 background: '/img/bg-volleyball.jpg'
 ---
 
-MAC 2025 Volleyball Program
+MAC 2026 Volleyball Program
 ----------------------------------
 Welcome to the Moanalua Athletic Club (MAC) Volleyball program!
 The MAC Volleyball program is primarily for youth residing in the Moanalua area (Fort Shafter to Red Hill and mauka of the freeway), or attending Moanalua Elementary or Middle schools.
 
 Program Information
 -------------------
-The 2025 season will run from April 5, 2025 - June 7, 2025
+The 2026 season will run from April 5, 2026 - June 7, 2026
 
 MAC Volleyball divisions and age groups are as follows:
 
-Age is determined by the age of the child on January 1, 2025.
+Age is determined by the age of the child on December 31, 2025.
 
 * Pintos - Ages 7 & 8
 * Mustangs - Ages 9 & 10
 * Broncos - Ages 11 & 12
-* Pony - Ages 13 & 14 (tentative)
+* Pony - Ages 13 & 14
 
 **We need volunteer Coaches and Assistant Coaches!**
 * Teams will be formed if we have a minimum of 2 coaches and 9 players.
   * *If we don't have enough coaches, the number of participants will be limited.*
 * Coaches' child or children are given priority for placement and Fees will be waived/discounted.
-* Team assignments and practices start after 3/25/25
+* Team assignments and practices start after 3/23/26
 
-Practices are held at Moanalua Community Park Courts and Moanalua Elementary School courts (pending MES approval)
+Practices are held at Moanalua Community Park Courts
 
 Priority for selection are as follows:
 --------------------------------------
@@ -41,7 +41,7 @@ Priority for selection are as follows:
 
 Signup
 ------------
-The MAC 2025 volleyball sign-up period is from March 22 through March 30.
+The MAC 2026 volleyball sign-up period is from March 9 through March 15.
 
 Sign-up is ONLINE ONLY.
 
@@ -49,10 +49,10 @@ Sign-up is ONLINE ONLY.
 {: .alert .alert-primary .rounded}
 
 To clarify how to get your child on a team:
-1. Sign up online between March 22 through March 30
-1. The MAC coordinator will email you a PAL registration form and payment instructions around March 25, 2025
+1. Sign up online between March 9 through March 15
+1. The MAC coordinator will email you a PAL registration form and payment instructions around March 13, 2026
 1. Mail your completed registration form AND payment to the address provided in the email
-1. **We must receive your registration form and payment by April 4, 2025**.
+1. **We must receive your registration form and payment by March 27, 2026**.
 1. Once your registration form and payment have been processed your child will be placed on a team
 
 * You may be required to show proof of birth date
@@ -66,7 +66,7 @@ Notification and Payment
 ------------------------
 If your child is selected, the registration form and your payment must be made by check or money order made payable to MAC for $35.
 This fee primarily covers the cost of t-shirt uniforms & equipment.
-**Registration and payment must be sent and postmarked by Friday, April 4, 2025**, or your child will be taken off the list.
+**Registration and payment must be sent and postmarked by Friday, March 27, 2026**, or your child will be taken off the list.
 
 Check Policy
 ------------
