@@ -41,7 +41,7 @@ Priority for selection are as follows:
 
 Signup
 ------------
-The MAC 2026 volleyball sign-up period is from March 9 through March 17.
+The MAC 2026 volleyball sign-up period is from March 9 through March 15.
 
 Sign-up is ONLINE ONLY.
 
@@ -49,7 +49,7 @@ Sign-up is ONLINE ONLY.
 {: .alert .alert-primary .rounded}
 
 To clarify how to get your child on a team:
-1. Sign up online between March 9 through March 17
+1. Sign up online between March 9 through March 15
 1. The MAC coordinator will email you a PAL registration form and payment instructions around March 13, 2026
 1. Mail your completed registration form AND payment to the address provided in the email
 1. **We must receive your registration form and payment by March 27, 2026**.
