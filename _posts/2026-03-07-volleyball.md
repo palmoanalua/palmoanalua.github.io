@@ -5,7 +5,7 @@ date:   2026-03-07 00:00:01
 categories: volleyball
 background: '/img/bg-background.jpg'
 excerpt_separator: <!--more-->
-published: true
+published: false
 ---
 The Moanalau Atheletic Club (MAC) 2026 volleyball sign-ups will be from March 9 thru March 15.
 
