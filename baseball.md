@@ -52,7 +52,7 @@ These fees cover the cost of:
 * Providing player team jersey, and cap
 * Any surplus will be go purchasing baseball equipment and supplies
 
-<span style="color:red">Payment is due on the first day of practice (June 1).</span>
+<span style="color:red">Payment is due on the first day of practice (May 27).</span>
 
 Uniforms
 --------
@@ -68,7 +68,7 @@ If you need more information or have questions on sizing of uniforms, contact th
 Sign-up Process
 ---------------
 1. SIGN UP: Online sign-up period is May 12 – May 19
-1. REGISTRATION AND FEE: Registration form and payment due date is the first day of practice is projected to be Monday June 1
+1. REGISTRATION AND FEE: Registration form and payment due date is the first day of practice is projected to be May 27
 
 ## [Click Here to Sign-up Now!](https://forms.gle/V877Yybtefu3ik8Z7){: .link-button}{:target="_blank"}
 
@@ -77,7 +77,7 @@ Sign-ups are ONLINE only.
 Payment
 ------------
 A completed registration form and payment must be received before a player is assigned to a team.
-<span style="color:red">Payment is due on the first day of practice (June 1).</span>
+<span style="color:red">Payment is due on the first day of practice (May 27).</span>
 
 Check Policy
 ------------
